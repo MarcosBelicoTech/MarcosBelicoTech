@@ -171,12 +171,12 @@
 
 ### ☁️ Cloud & DevOps  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,digitalOcean,jenkins" />
+  <img src="https://skillicons.dev/icons?i=docker,digitalocean" />
 </a>
 
 ### ⚙️ Tools & Platforms  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,anaconda,latex,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,anaconda,latex,windows,linux" />
 </a>
 
 
