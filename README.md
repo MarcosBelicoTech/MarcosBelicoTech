@@ -171,7 +171,7 @@
 
 ### ☁️ Cloud & DevOps  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,DigitalOcean,jenkins,GitLab CI/CD" />
+  <img src="https://skillicons.dev/icons?i=docker,DigitalOcean,jenkins,GitLab" />
 </a>
 
 ### ⚙️ Tools & Platforms  
