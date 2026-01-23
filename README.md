@@ -149,7 +149,7 @@
 </h3>  
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,py,php,JavaScript,MATLAB,R," />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,py,php,javaScript,matlab,r," />
 </a>
 
 <h3>
@@ -161,7 +161,7 @@
 </h3>  
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,bootstrap,vite,Laravel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,bootstrap,vite,laravel" />
 </a>
 
 ### 🗄️ Databases  
@@ -171,12 +171,12 @@
 
 ### ☁️ Cloud & DevOps  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,DigitalOcean,jenkins,GitLab" />
+  <img src="https://skillicons.dev/icons?i=docker,digitalOcean,jenkins" />
 </a>
 
 ### ⚙️ Tools & Platforms  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,clion,cmake,anaconda,notion,latex,windows,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,anaconda,latex,windows,linux" />
 </a>
 
 
