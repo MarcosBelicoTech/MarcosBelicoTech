@@ -149,7 +149,7 @@
 </h3>  
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,py,php,javaScript,matlab,r," />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,py,php,javascript,matlab,r," />
 </a>
 
 <h3>
