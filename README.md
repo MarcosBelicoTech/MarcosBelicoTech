@@ -31,7 +31,6 @@
 <span>[<kbd> <br> Habilidades <br> </kbd>](#technical-skills)</span>
 <span>[<kbd> <br> Estadísticas <br> </kbd>](#github-stats)</span>
 <span>[<kbd> <br> Serpiente <br> </kbd>](#snake)</span>
-<span>[<kbd> <br> Gráfica <br> </kbd>](#graph)</span>
 
 
 <a href="https://www.linkedin.com/in/marcos-garcia-vazquez-bb4965330/" target="_blank">
@@ -113,25 +112,17 @@
 
 
 
-<h2><a id="social-media"></a><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media</h2>
+<h2><a id="social-media"></a><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Redes Sociales</h2>
 
-<a href="https://linkedin.com/in/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a> 
+<a href="https://www.linkedin.com/in/marcos-garcia-vazquez-bb4965330/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a> 
 &nbsp;
-<a href="https://fb.com/profile.php?id=100004270350132" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/facebook/facebook.svg" alt="Facebook" height="40" width="35" /></a>
+<a href="https://www.facebook.com/share/1AYf6NBd2J/?mibextid=wwXIfr" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/facebook/facebook.svg" alt="Facebook" height="40" width="35" /></a>
 &nbsp;
-<a href="https://wa.me/0201110102554" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/whatsapp/whatsapp.svg" alt="WhatsApp" height="40" width="35" /></a>
+<a href="https://wa.me/+528342883442" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/whatsapp/whatsapp.svg" alt="WhatsApp" height="40" width="35" /></a>
 &nbsp;
-<a href="https://t.me/nassarrrr" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/telegram/telegram.svg" alt="Telegram" height="40" width="35" /></a>
+<a href="https://www.instagram.com/marxos__toys" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram" height="40" width="35" /></a>
 &nbsp;
-<a href="https://instagram.com/ahmed_nassar__" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram" height="40" width="35" /></a>
-&nbsp;
-<a href="https://discord.com/users/1004903939415752834" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/discord/discord.svg" alt="Discord" height="40" width="40" /></a>
-&nbsp;
-<a href="https://codeforces.com/profile/AhmedNassar7" target="_blank"><img align="center" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/codeforces/codeforces.svg" alt="Codeforces" height="40" width="35" /></a>
-&nbsp;
-<a href="https://www.hackerrank.com/a_moh_nassar00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HacherRank" height="40" width="35" /></a>
-&nbsp;
-<a href="https://www.leetcode.com/nasssar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="38" width="35" /></a>
+<a href="https://discord.gg/BTVwCe48" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/discord/discord.svg" alt="Discord" height="40" width="40" /></a>
 
 
 
@@ -139,7 +130,7 @@
 
 
 
-<h2><a id="technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h2>
+<h2><a id="technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">  Habilidades técnicas</h2>
 
 <!--
 <p align="center">
@@ -201,14 +192,6 @@
 <img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=AhmedNassar7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500"/>
 
 <a href="https://git.io/streak-stats"><img align="center" width="1000" height="180" src="https://streak-stats.demolab.com?user=ahmednassar7&theme=gruvbox" alt="GitHub Streak" /></a>
-
-<td colspan="2" style="text-align: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedNassar7&theme=gruvbox" alt="Profile Details" " />
-</td>
-
-<img width="550px" src="https://github-contributor-stats.vercel.app/api?username=ahmednassar7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true">
-
-</div>
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
