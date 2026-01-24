@@ -149,7 +149,7 @@
 </h3>  
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,py,php,javascript,matlab,r," />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,php,javascript,matlab,r," />
 </a>
 
 <h3>
@@ -164,17 +164,20 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,bootstrap,vite,laravel" />
 </a>
 
-### 🗄️ Databases  
+### 🗄️ Bases de datos
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,dynamodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mssql,mamp" />
 </a>
 
 ### ☁️ Cloud & DevOps  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,digitalocean" />
-</a>
 
-### ⚙️ Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=docker" height="48"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="48"/>
+
+
+
+### ⚙️ Herramientas y plataformas
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,anaconda,latex,windows,linux" />
 </a>
