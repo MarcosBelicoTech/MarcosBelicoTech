@@ -171,9 +171,10 @@
 
 ### ☁️ Cloud & DevOps  
 
-<img src="https://skillicons.dev/icons?i=docker" height="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="48"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="48"/>
+</p>
 
 
 
