@@ -182,9 +182,10 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,latex,vscode,idea,figma,blender,anaconda,windows,linux,ubuntu,kali,nodejs,npm,androidstudio,flutter,bash,powershell" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48" style="vertical-align: middle; margin-left: 4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="48" style="vertical-align: middle; margin-left: 4px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="48"/>
 </p>
+
 
 
 
