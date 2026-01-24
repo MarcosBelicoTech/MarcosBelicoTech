@@ -178,18 +178,12 @@
 
 
 
+### ⚙️ Herramientas y plataformas  
+
 <p align="left">
-  <!-- SkillIcons -->
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,anaconda,latex,windows,linux,intellij,figma,blender,kali,ubuntu,trello,npm,nodejs,androidstudio,flutter,apache,powershell,bash,ssh" />
-
-  <!-- Devicon (no disponibles en SkillIcons) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openssl/openssl-original.svg" height="48"/>
-
-  <!-- Networking / Security (logos genéricos) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,latex,vscode,idea,figma,blender,anaconda,windows,linux,ubuntu,kali,nodejs,npm,androidstudio,flutter,bash,powershell" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48" style="vertical-align: middle; margin-left: 4px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="48" style="vertical-align: middle; margin-left: 4px;"/>
 </p>
 
 
