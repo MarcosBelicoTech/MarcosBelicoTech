@@ -181,12 +181,16 @@
 ### ⚙️ Herramientas y plataformas  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,latex,vscode,idea,figma,blender,anaconda,windows,linux,ubuntu,kali,nodejs,npm,androidstudio,flutter,bash,powershell" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,latex,vscode,idea,figma,blender,anaconda,windows,linux,ubuntu,kali,nodejs,npm,androidstudio,flutter,bash,powershell"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48"/>https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="48"/>
 </p>
 
+<h3>🌐 Redes y Seguridad 🔥</h3>
 
+<p>
+  📡 <strong>Protocolos:</strong> DNS · DHCP · FTP · HTTP / HTTPS · SSH<br>
+  🛡️ <strong>Seguridad:</strong> Nmap · SQLmap · OpenSSL · Wireshark · Check Point<br>
+  🖧 <strong>Networking:</strong> Packet Tracer
+</p>
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
