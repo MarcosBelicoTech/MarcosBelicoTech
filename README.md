@@ -178,10 +178,12 @@
 
 
 
-### ⚙️ Herramientas y plataformas  
+<h3>⚙️ Herramientas y plataformas</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,latex,vscode,idea,figma,blender,anaconda,windows,linux,ubuntu,kali,nodejs,npm,androidstudio,flutter,bash,powershell"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48"/>https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,latex,vscode,idea,figma,blender,anaconda,windows,linux,ubuntu,kali,nodejs,npm,androidstudio,flutter,bash,powershell" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="48" />
 </p>
 
 <h3>🌐 Redes y Seguridad 🔥</h3>
