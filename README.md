@@ -178,13 +178,14 @@
 
 
 
-### ⚙️ Herramientas y plataformas
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,latex,vscode,idea,figma,blender,anaconda,windows,linux,ubuntu,kali,nodejs,npm,androidstudio,flutter,bash,powershell" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="48"/>
+### ⚙️ Herramientas y plataformas  
 
-</a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,latex,vscode,idea,figma,blender,anaconda,windows,linux,ubuntu,kali,nodejs,npm,androidstudio,flutter,bash,powershell" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="48" style="vertical-align: middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="48" style="vertical-align: middle;"/>
+</p>
+
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
