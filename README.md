@@ -21,11 +21,6 @@
 <span>[<kbd> <br> Serpiente <br> </kbd>](#snake)</span>
 
 
-<a href="https://www.linkedin.com/in/marcos-garcia-vazquez-bb4965330/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-</a>
-
-</div>
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
