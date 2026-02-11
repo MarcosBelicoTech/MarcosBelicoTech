@@ -9,18 +9,6 @@
 <div align="center">
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmednassar7&label=Vistas%20del%20Perfil&color=0e75b6&style=flat-square" alt="Vistas del perfil" height="21" /> 
-  <img src="https://img.shields.io/github/followers/ahmednassar7?label=Seguidores&color=0e75b6&style=flat-square" alt="Seguidores" height="21" width="100" />
-  <img src="https://img.shields.io/github/stars/ahmednassar7?label=Estrellas&color=0e75b6&style=flat-square" alt="Estrellas" height="21" />
-  <img src="https://img.shields.io/github/forks/AhmedNassar7/Software-Engineering?label=Bifurcaciones&color=0e75b6&style=flat-square" alt="Bifurcaciones" height="21" />
-  <img src="https://img.shields.io/github/watchers/AhmedNassar7/Software-Engineering?label=Observadores&style=flat-square&color=0e75b6" alt="Observadores" height="21" />
-</p>
-
-</div>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-roan.vercel.app/?username=AhmedNassar7&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1&column=7" alt="ahmednassar7" /></a> </p>
-
 <div align="center">
 
 <span>[<kbd> <br> Acerca de <br> </kbd>](#about)</span>
